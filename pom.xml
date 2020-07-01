@@ -15,7 +15,7 @@
     <!--<spring-version>3.2.4.RELEASE</spring-version>-->
     <spring-version>5.1.3.RELEASE</spring-version>
     <!--mysql-->
-    <mysql-version>5.1.38</mysql-version>
+    <mysql-version>8.0.16</mysql-version>
     <!--dbcp-->
     <dbcp-version>1.4</dbcp-version>
     <!--mybatis-->
